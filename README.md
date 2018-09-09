@@ -16,4 +16,4 @@ video-delivery. It contains:
 Please notice that in order to build this locally you need Docker 17.05.
 
 The image is available on Docker Hub:
-https://hub.docker.com/r/fsouza/video-nginx/.
+https://hub.docker.com/r/tecfu/video-nginx/.
